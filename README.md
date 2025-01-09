@@ -6,7 +6,9 @@ Hi 👋 I am An Son, AI Engineer at FPT Software.
 #### Some of my experiences:
 - eKYC (OCR, Face Matching, Face recognition, liveness detection, anti-spoofing, etc).
 - AI in Healthcare (Abnormal liver area detection on CT images).
-- Passenger Tracking in Airport.
+- Object Detection, Tracking, Segmentation.
+- Human Behavior.
+- LLM AI Agent.
 - etc.
 
 #### Technical Skills
@@ -20,9 +22,11 @@ Hi 👋 I am An Son, AI Engineer at FPT Software.
 ![](https://img.shields.io/badge/FastAPI-darkgreen?logo=fastapi&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/Triton-green?logo=Triton&logoColor=fff&style=for-the-badge)
+![](https://img.shields.io/badge/DeepStream-green?logo=DeepStream&logoColor=fff&style=for-the-badge)
 
 ![](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=fff&style=for-the-badge)
 ![](https://img.shields.io/badge/TensorRT-green?logo=TensorRT&logoColor=fff&style=for-the-badge)
 
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)
+![](https://img.shields.io/badge/MacOS-FCC624?style=for-the-badge&logo=macos&logoColor=black)
