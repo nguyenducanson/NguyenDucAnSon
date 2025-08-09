@@ -1,15 +1,14 @@
-# An Son - AI Engineer in Computer Vision
+# An Son - AI Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnSon-blue?logo=linkedin)](https://www.linkedin.com/in/an-s%C6%A1n-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-01a4871b3/)
 
-Hi 👋 I am An Son, AI Engineer at FPT Software. 
-
-#### Some of my experiences:
-- eKYC (OCR, Face Matching, Face recognition, liveness detection, anti-spoofing, etc).
-- AI in Healthcare (Abnormal liver area detection on CT images).
-- Object Detection, Tracking, Segmentation.
-- Human Behavior.
-- LLM AI Agent.
-- etc.
+Hi 👋 I am An Son
+- AI engineer with 3+ experience working in AI. I have the ability to research, design, develop AI solutions, particularly in the field of Computer Vision, Natural Language Process, LLM.
+- Designing and implementing deep learning models for object detection / object tracking, image recognition, medical imaging, and autonomous systems.
+- Designing and developing chatbot, AI Agent in Retail, Healthcare.
+- System architecture design, AI pipeline flow design, and database design for scalable AI applications.
+- Working with large-scale datasets, ensuring high-quality data preprocessing and augmentation.
+- Optimize model performance, improve AI model accuracy, and fine-tune algorithms to meet both technical and business requirements.
+- Deploy AI models in production environments, ensure scalability, robustness, and efficiency for real-world applications.
 
 #### Technical Skills
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
