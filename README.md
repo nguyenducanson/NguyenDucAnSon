@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnSon-blue?logo=linkedin)](https://www.linkedin.com/in/an-s%C6%A1n-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-01a4871b3/)
 
 Hi 👋 I am An Son
-- AI engineer with 3+ experience working in AI. I have the ability to research, design, develop AI solutions, particularly in the field of Computer Vision, Natural Language Process, LLM.
+- **AI engineer with 3+ experience working in AI.** I have the ability to research, design, develop AI solutions, particularly in the field of Computer Vision, Natural Language Process, LLM.
 - Designing and implementing deep learning models for object detection / object tracking, image recognition, medical imaging, and autonomous systems.
 - Designing and developing chatbot, AI Agent in Retail, Healthcare.
 - System architecture design, AI pipeline flow design, and database design for scalable AI applications.
@@ -11,21 +11,36 @@ Hi 👋 I am An Son
 - Deploy AI models in production environments, ensure scalability, robustness, and efficiency for real-world applications.
 
 #### Technical Skills
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![](https://img.shields.io/badge/OpenCV-%23D00000.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![](https://img.shields.io/badge/TensorFlowLite-%23FF6F00.svg?style=for-the-badge&logo=TensorFlowLite&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-![](https://img.shields.io/badge/FastAPI-darkgreen?logo=fastapi&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/Triton-green?logo=Triton&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/DeepStream-green?logo=DeepStream&logoColor=fff&style=for-the-badge)
-
-![](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=fff&style=for-the-badge)
-![](https://img.shields.io/badge/TensorRT-green?logo=TensorRT&logoColor=fff&style=for-the-badge)
-
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)
-![](https://img.shields.io/badge/MacOS-FCC624?style=for-the-badge&logo=macos&logoColor=black)
+<table>
+  <tr>
+    <td><b>Operating System</b></td>
+    <td>MacOS, Windows (10/11), Ubuntu (20/22)</td>
+  </tr>
+  <tr>
+    <td><b>Program Language</b></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td>
+      Tensorflow, Pytorch, Sklearn, YOLO, ONNX, NVIDIA TensorRT,... </br>
+      Image classification, Object detection, Object segmentation, Object tracking, OCR, Face recognition, Person behavior, Pose detection, Gaze recognition,...
+    </td>
+  </tr>
+  <tr>
+    <td><b>LLM</b></td>
+    <td>LangChain, LangGraph, LangFlow, Prompting, RAG, Agent, MCP, A2A, VectorDB,...</td>
+  </tr>
+  <tr>
+    <td><b>MLOps</b></td>
+    <td>Docker, CI/CD, Microservice, Redis, Kafka, FastAPI, NVIDIA Triton Infer Server, Nvidia Deepstream,...</td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>AWS, Azure</td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>MongoDB, Qdrant, PostgreSQL</td>
+  </tr>
+</table>
